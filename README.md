@@ -1,2 +1,4 @@
 # Guided-Project-Analyzing-Kickstarter-Projects
-The product team is considering launching a campaign on Kickstarter to test the viability of some offerings. You've been asked to pull data that will help the team understand what might influence the success of a campaign. 
+
+This project pulls data to help the product team understand what might influence the success of a Kickstart campaign to test some offerings' viability. 
+
